@@ -1,7 +1,7 @@
 # My JavaScript Practice Repository
 # Mubashar Siddique
 
-This is my **JavaScript practice repo**, where I explore and reinforce various JavaScript concepts. It's my go-to space for hands-on coding practice, trying out new ideas, and deepening my understanding of different topics.
+This is my **JavaScript practice repo**, where I explore and reinforce various JavaScript concepts. It's my go-to space for hands-on coding practice, trying out new ideas, and my understanding of different topics.
 
 ## Purpose
 
