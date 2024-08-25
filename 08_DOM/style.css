@@ -1,0 +1,145 @@
+#htmlCssJs{
+    height: 400px;
+    width: 400px;
+    margin: 10px auto;
+    display: block;
+    border-radius: 20px;
+}
+.greet-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(5, 126, 5, 0.897);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.close{
+    transition: all 0.3s;
+}
+.close:hover{
+    cursor: pointer;
+    color: red;
+}
+.card{
+    width: 80px;
+    height: 80px;
+    background-color: lightslategrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    border-radius: 10px;
+    margin: 5px;
+}
+.card:hover{
+    cursor: pointer;
+}
+.event-h1{
+    background-color: #3d6f3d;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+.event-h1:hover{
+    background-color: green;
+}
+.event-h1:hover{
+    cursor: pointer;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap; 
+    align-items: center;
+    width: 100%;
+    margin: 50px 0;
+}
+.main-card{
+    background-color: steelblue;
+    color: #fff;
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    width: 50px;
+    height: 50px;
+}
+form {
+    width: 80%;
+    border: 1px solid red;
+    margin: 20px auto;
+    word-wrap: break-word;
+    overflow-wrap: break-word; /* Added to handle text overflow */
+    box-sizing: border-box; /* Ensure padding and border are included in the width */
+}
+
+.form-elements {
+    display: flex;
+    flex-wrap: nowrap;
+    border: 1px solid;
+    flex-direction: column;
+    max-width: 315px;
+    align-items: center;
+    margin: 20px auto;
+    padding: 20px;
+    box-sizing: border-box; /* Ensure padding and border are included in the width */
+}
+
+.form-elements input {
+    margin: 5px 0;
+    padding: 4px 5px;
+    white-space: normal;
+    width: 100%; /* Ensure input fields take full width */
+    box-sizing: border-box; /* Ensure padding and border are included in the width */
+}
+
+
+.box-container{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+
+.main-box{
+    position: fixed;
+    bottom: 10%;
+    right: 10%;
+    background-color: wheat;
+}
+
+.main-box:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
